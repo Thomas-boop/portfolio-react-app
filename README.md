@@ -32,42 +32,15 @@ import { Container, Row, Col, Image, Button } from 'react-bootstrap';
 
 Then you can Bootstrap each component like this:
 
-function Work() {
-return (
-
-<div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
-<Container className='py-8'>
-<Row className='justify-content-center'>
-<h1 className='text-center text-white fw-bold pb-4 border-bottom border-pink-600'>Work</h1>
-<p className='text-center py-6'>// Check out some of our favorite work</p>
-</Row>
-<Row xs={1} md={2} lg={3} className='g-4'>
-<Col>
-<div className='content-div group container rounded-md shadow-lg shadow-[#040c16] flex justify-center items-center mx-auto'
-style={{ backgroundImage: `url(${weather})` }}>
-<div className='opacity-0 group-hover:opacity-100'>
-<h3 className='text-white fw-bold text-center tracking-wider'>Weather App application</h3>
-<div className='text-center pt-8'>
-<a href='https://thomas-boop.github.io/Weather-app/' target='_blank' rel='noopener noreferrer'>
-<Button variant='outline-light' size='lg' className='m-2'>Demo</Button>
-</a>
-<a href='https://github.com/Thomas-boop/Weather-app' target='_blank' rel='noopener noreferrer'>
-<Button variant='outline-light' size='lg' className='m-2'>Code</Button>
-</a>
-</div>
-</div>
-</div>
-</Col>
-<Col>
-<div className='content-div group container rounded-md shadow-lg shadow-[#040c16] flex justify-center items-center mx-auto'
-style={{ backgroundImage: `url(${paint})` }}>
-<div className='opacity
-
 This is just an example but it can work
 
 Features
+About
+Contact
+Home
+NavBar
+Skills
 
-[List of application features go here]
 Technologies Used
 
     React
