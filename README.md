@@ -1,3 +1,5 @@
+# Live link URL: https://thomas-boop.github.io/portfolio-react-app/
+
 # Bootstrapping a React Project
 
 This guide will walk you through the steps to bootstrap a new React project using the create-react-app tool.
@@ -32,6 +34,7 @@ Then you can Bootstrap each component like this:
 
 function Work() {
 return (
+
 <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
 <Container className='py-8'>
 <Row className='justify-content-center'>
