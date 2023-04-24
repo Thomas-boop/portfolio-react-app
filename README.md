@@ -31,6 +31,8 @@ import React from 'react';
 import { Container, Row, Col, Image, Button } from 'react-bootstrap';
 
 Then you can Bootstrap each component like this:
+![work _component](https://user-images.githubusercontent.com/59957930/234040721-33dca502-70b9-4e5c-aef8-2abfc6919ba5.png)
+![work_component2](https://user-images.githubusercontent.com/59957930/234041365-264b3afe-f8c2-4910-b9ef-29c6f36afd4d.png)
 
 This is just an example but it can work
 
