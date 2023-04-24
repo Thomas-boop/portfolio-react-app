@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.f85d7268.css",
+    "main.js": "/portfolio-react-app/static/js/main.53fe0c20.js",
+    "static/media/rock-paper-scissors.png": "/portfolio-react-app/static/media/rock-paper-scissors.9c3807a59d2995e19c27.png",
+    "static/media/dog-food.png": "/portfolio-react-app/static/media/dog-food.4a8b70c5c28b6feed88f.png",
+    "static/media/shopping-cart.png": "/portfolio-react-app/static/media/shopping-cart.1589f603f1a0765175ef.png",
+    "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/git.png": "/portfolio-react-app/static/media/git.bad2b1118eff814bb319.png",
+    "static/media/fast-food.png": "/portfolio-react-app/static/media/fast-food.f69fa4942a666aa53712.png",
+    "static/media/paint.png": "/portfolio-react-app/static/media/paint.73fe264702ea1367766a.png",
+    "static/media/weather-app.png": "/portfolio-react-app/static/media/weather-app.beb7966aab0344f12d57.png",
+    "static/media/development.png": "/portfolio-react-app/static/media/development.ec2ba861e4e2f4ceba9d.png",
+    "static/media/Java.png": "/portfolio-react-app/static/media/Java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/firebase.png": "/portfolio-react-app/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/Css.png": "/portfolio-react-app/static/media/Css.7ade9265dc9bd2c6bc82.png",
+    "static/media/html.png": "/portfolio-react-app/static/media/html.e7a936432435be030e1c.png",
+    "static/media/JavaScript.png": "/portfolio-react-app/static/media/JavaScript.b53de0f8c513f9e8b378.png",
+    "static/media/ship.png": "/portfolio-react-app/static/media/ship.6f16e42ec52107002ad3.png",
+    "index.html": "/portfolio-react-app/index.html",
+    "main.f85d7268.css.map": "/portfolio-react-app/static/css/main.f85d7268.css.map",
+    "main.53fe0c20.js.map": "/portfolio-react-app/static/js/main.53fe0c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85d7268.css",
+    "static/js/main.53fe0c20.js"
+  ]
+}
